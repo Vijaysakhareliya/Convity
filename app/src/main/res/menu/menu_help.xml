@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuEmailSupport"
+        android:title="Email Support" />
+
+    <item
+        android:id="@+id/menuWhatsappSupport"
+        android:title="Whatsapp Support" />
+
+    <item
+        android:id="@+id/menuHelp"
+        android:title="Help" />
+    <item
+        android:id="@+id/menuPolicy"
+        android:title="Policy" />
+
+    <item
+        android:id="@+id/menuAbout"
+        android:title="About me" />
+
+    <item
+        android:id="@+id/menuVersionDetail"
+        android:title="Version detail" />
+    <item
+        android:id="@+id/menuPrivacy"
+        android:title="Privacy" />
+</menu>

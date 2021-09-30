@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4F26AF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#4F26AF</color>
+    <color name="lightTheme">#B19BE2</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="divider">#EBEBEB</color>
+    <color name="selectBack">#FFC5CD</color>
+    <color name="whiteTransparent">#40FFFFFF</color>
+    <color name="blackTransparent">#60000000</color>
+    <color name="headerColor">#5C5858</color>
+    <color name="searchBackColor">#F2F1F6</color>
+    <color name="checkBoxText">#3E495D</color>
+    <color name="languageDivider">#A2A2A2</color>
+    <color name="languageHeader">#33385D</color>
+    <color name="timeColor">#6A6A6A</color>
+    <color name="tabDivider">#D4D4D4</color>
+
+    <color name="selectTab">#4F26AF</color>
+    <color name="unSelectTab">#757575</color>
+
+    <color name="textWhite">#FFFFFF</color>
+    <color name="textBlack">#000000</color>
+    <color name="textGray">#abbcd5</color>
+    <color name="textHeader">#f85f73</color>
+</resources>

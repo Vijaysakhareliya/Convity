@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Convity</string>
+
+    <string name="please_wait">Please wait…</string>
+    <string name="something_went_wrong">Something went wrong.</string>
+    <string name="exception_error_unauthorized">Unauthorised User</string>
+    <string name="exception_error_forbidden">Forbidden</string>
+    <string name="exception_error_bad_request">Bad Request</string>
+    <string name="exception_error_network">Internet connection not found.</string>
+    <string name="exception_error_server">Server is under maintenance, please try after some time.</string>
+    <string name="exception_error_unparceble">Unparceble data found from server.</string>
+
+    <!-- Login Screen -->
+    <string name="login_msg">Enter Your Number\nto Get Started</string>
+    <string name="loginSubMsg">Whether you\'re creating an account or\nsignin back in, let\'s start with your\nnumber.</string>
+    <string name="continueText">Continue</string>
+
+    <!--  Verification Screen  -->
+    <string name="verificationMsg">Verify Mobile Number</string>
+    <string name="verificationSubMsg">We have sent a 4 digit code to\n+91-9825380349, please enter it below to\n complete verification.</string>
+    <string name="otpNotReceive">Message not received? </string>
+    <string name="diffNumber">Use Different Mobile Number</string>
+
+    <!--  Verification Success Screen  -->
+    <string name="verificationSuccess">Your Mobile Number has\nbeen verified successfully</string>
+
+    <!--  Register Screen  -->
+    <string name="addBusinessTitle">Add Business Details</string>
+    <string name="yourName">Your Name</string>
+    <string name="designation">Designation</string>
+    <string name="contactNumber">Contact Number</string>
+    <string name="eMail">E-Mail</string>
+    <string name="website">Website</string>
+    <string name="address">Address</string>
+    <string name="uploadYourLogo">Upload Your Logo</string>
+
+    <!--  Country Picker Screen  -->
+    <string name="selectYourCountry">Select your country</string>
+    <string name="enterYourCountryName">Enter your country name</string>
+    <string name="sorryNoDataFound">Sorry no data found</string>
+
+    <!--  Edit Business Detail Screen  -->
+    <string name="editBusinessDetails">Edit Business Details</string>
+    <string name="save">Save</string>
+
+    <!--  Business Detail Fragment  -->
+    <string name="myName">My Name</string>
+    <string name="teamMembers">Team Members</string>
+    <string name="addMember">+ ADD MEMBER</string>
+
+    <!--  Home Fragment-->
+    <string name="search">Search</string>
+    <string name="photo">Photo</string>
+    <string name="video">Video</string>
+
+    <!--  Language Fragment-->
+    <string name="language">Language</string>
+    <string name="selected_language">Selected Language</string>
+    <string name="reset">Reset</string>
+    <string name="apply">Apply</string>
+
+    <!--  Notification Fragment-->
+    <string name="notification">Notification</string>
+
+    <!--  Profile Fragment-->
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="popularPosts">Popular Posts</string>
+    <string name="myPost">My\nPost</string>
+    <string name="savedPost">Saved\nPost</string>
+    <string name="businessDetails">Business\nDetails</string>
+
+    <!--  Search Fragment-->
+    <string name="category">Category</string>
+    <string name="trending">Trending</string>
+    <string name="otherPosts">Other Posts</string>
+    <string name="pleaseEnterNumber">Please enter number!</string>
+    <string name="pleaseEnterValidNumber">Please enter valid number!</string>
+    <string name="next">Next</string>
+    <string name="filters">Filters</string>
+
+
+</resources>

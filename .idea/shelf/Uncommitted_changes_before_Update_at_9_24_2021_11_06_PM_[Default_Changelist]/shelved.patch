@@ -1,0 +1,20 @@
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"DesignSurface\">\r\n    <option name=\"filePathToZoomLevelMap\">\r\n      <map>\r\n        <entry key=\"..\\:/Sudhir/Convity/WorkingCode/Convity/app/src/main/res/drawable-xxhdpi/btn_continue_primary.xml\" value=\"0.20555555555555555\" />\r\n        <entry key=\"..\\:/Sudhir/Convity/WorkingCode/Convity/app/src/main/res/drawable/btn_continue.xml\" value=\"0.20555555555555555\" />\r\n        <entry key=\"..\\:/Sudhir/Convity/WorkingCode/Convity/app/src/main/res/drawable/edit_back.xml\" value=\"0.20555555555555555\" />\r\n        <entry key=\"..\\:/Sudhir/Convity/WorkingCode/Convity/app/src/main/res/drawable/login_back.xml\" value=\"0.20555555555555555\" />\r\n        <entry key=\"..\\:/Sudhir/Convity/WorkingCode/Convity/app/src/main/res/drawable/otp_back.xml\" value=\"0.20555555555555555\" />\r\n        <entry key=\"..\\:/Sudhir/Convity/WorkingCode/Convity/app/src/main/res/layout/activity_home.xml\" value=\"0.20416666666666666\" />\r\n        <entry key=\"..\\:/Sudhir/Convity/WorkingCode/Convity/app/src/main/res/layout/activity_login.xml\" value=\"0.17\" />\r\n        <entry key=\"..\\:/Sudhir/Convity/WorkingCode/Convity/app/src/main/res/layout/activity_register.xml\" value=\"0.2\" />\r\n        <entry key=\"..\\:/Sudhir/Convity/WorkingCode/Convity/app/src/main/res/layout/activity_splash.xml\" value=\"0.2\" />\r\n        <entry key=\"..\\:/Sudhir/Convity/WorkingCode/Convity/app/src/main/res/layout/activity_verification.xml\" value=\"0.2\" />\r\n        <entry key=\"..\\:/Sudhir/Convity/WorkingCode/Convity/app/src/main/res/layout/activity_verification_success.xml\" value=\"0.20416666666666666\" />\r\n        <entry key=\"..\\:/Sudhir/Convity/WorkingCode/Convity/app/src/main/res/layout/fragment_home.xml\" value=\"0.20416666666666666\" />\r\n        <entry key=\"..\\:/Sudhir/Convity/WorkingCode/Convity/app/src/main/res/layout/fragment_notification.xml\" value=\"0.20416666666666666\" />\r\n        <entry key=\"..\\:/Sudhir/Convity/WorkingCode/Convity/app/src/main/res/layout/fragment_profile.xml\" value=\"0.20416666666666666\" />\r\n        <entry key=\"..\\:/Sudhir/Convity/WorkingCode/Convity/app/src/main/res/layout/fragment_search.xml\" value=\"0.20416666666666666\" />\r\n        <entry key=\"..\\:/Sudhir/Convity/WorkingCode/Convity/app/src/main/res/layout/item_introduction.xml\" value=\"0.20416666666666666\" />\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"ExternalStorageConfigurationManager\" enabled=\"true\" />\r\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_X\" default=\"true\" project-jdk-name=\"1.7\" project-jdk-type=\"JavaSDK\">\r\n    <output url=\"file://$PROJECT_DIR$/out\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	
++++ b/.idea/misc.xml	
+@@ -23,7 +23,7 @@
+     </option>
+   </component>
+   <component name="ExternalStorageConfigurationManager" enabled="true" />
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/out" />
+   </component>
+ </project>
+\ No newline at end of file
